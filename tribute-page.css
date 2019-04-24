@@ -57,7 +57,7 @@ h5 {
     padding-top: 1%;
 }
 img {
-    max-width: 100%;
+    max-width: 50%;
     display: block;
     height: auto;
     margin: 0 auto;
@@ -70,6 +70,7 @@ li {
     text-align: center;
     list-style: none;
     padding-top: 3px;
+    padding-right: 7%;
 }
 a {
     color: purple;
@@ -80,8 +81,8 @@ a:hover {
 #tribute-info{
     background-color: whitesmoke;
     border-radius: 1%;
-    margin-left: 19%;
-    margin-right: 19%;
+    margin-left: 17%;
+    margin-right: 20%;
     margin-top: 5%;
     padding-bottom: 2%;
 }
